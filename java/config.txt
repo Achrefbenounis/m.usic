@@ -1,6 +1,6 @@
 token=NjA5MzYxOTI1MTAwNTM1ODA4.XU1m9g.myZclmyxkXnbCVJhSTZMJEwrXLo
-owner=489886065306370059
-prefix=#
-game=play
+owner= 489886065306370059
+prefix= #
+game= play
 stayinchannel=true
 songinstatus=true
